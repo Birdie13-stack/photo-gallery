@@ -1,9 +1,15 @@
-# React + Vite
+# Photo Gallery
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A photo gallery displaying random images from Unsplash
 
-Currently, two official plugins are available:
+## Features
+* A display of random images.
+* A grid layout showing the images and the names of their photographers
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# photo-gallery
+## Live Demo: 
+https://photo-gallery-chi-opal.vercel.app/ 
+
+## Technologies Used:
+* React.js
+* CSS for styling
+* Unsplash API
